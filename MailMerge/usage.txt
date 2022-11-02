@@ -1,0 +1,5 @@
+Cambiar extensión del archivo de "sript.txt" a "script.py"
+
+Ejecutar comando en terminal: "python3 script.py"
+
+Los textos quedaran ubicados en /output
